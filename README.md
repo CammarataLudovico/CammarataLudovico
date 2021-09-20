@@ -6,7 +6,7 @@
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frosty04&layout=compact)
 
-![Frosty04's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=frosty04)
+![Frosty04's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=frosty04)
 
 
 
