@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @frosty04
+- 👋 Hi, I’m @frosty04, my real name is Ludovico Cammarata.
+- 🔞 I'm currently 19 years old.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Java, C and React-Native.
+- 🌱 I’m currently learning Java, Front-End Language and React-Native.
 
 ![Frosty04's GitHub stats](https://github-readme-stats.vercel.app/api?username=frosty04&show_icons=true&theme=darcula)
 
