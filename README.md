@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Java, Front-End Language and React-Native.
 
 Certifications:
+
 -Sql intermediate (https://www.hackerrank.com/certificates/e83f2fde3d60)
+
 -Css Basic (https://www.hackerrank.com/certificates/cc9f893fa426)
 
 
