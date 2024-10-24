@@ -10,9 +10,9 @@ Certifications:
 -Css Basic (https://www.hackerrank.com/certificates/cc9f893fa426)
 
 
-![Frosty04's GitHub stats](https://github-readme-stats.vercel.app/api?username=frosty04&show_icons=true&theme=darcula)
+![Frosty04's GitHub stats](https://github-readme-stats.vercel.app/api?username=CammarataLudovico&show_icons=true&theme=darcula)
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frosty04&layout=compact)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CammarataLudovico&layout=compact)
 
 ![Frosty04's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=frosty04)
 
