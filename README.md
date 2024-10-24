@@ -14,9 +14,6 @@ Certifications:
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CammarataLudovico&layout=compact)
 
-![Frosty04's coding time stats](https://github-readme-stats.vercel.app/api/wakatime?username=frosty04)
-
-
 
 <!---
 frosty04/frosty04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
