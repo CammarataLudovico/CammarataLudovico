@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frosty04, my real name is Ludovico Cammarata.
-- 🔞 I'm currently 19 years old.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Java, Front-End Language and React-Native.
+- 🔞 I'm currently 20 years old.
+- 👀 I’m a Front-End Developer Student.
+- 🌱 I’m currently learning Javascript!, and Front-End things.
 
 Certifications:
 
