@@ -1,13 +1,34 @@
-- 👋 Hi, I’m @frosty04, my real name is Ludovico Cammarata.
+## 👋 Hi!
+
+### Ludovico Cammarata
+
 - 🔞 I'm currently 20 years old.
 - 👀 I’m a Front-End Developer Student.
 - 🌱 I’m currently learning Javascript!, and Front-End things.
 
+### Programming languages / Technologies
+
+- Web
+  - Javascript, PHP, SQL, HTML, CSS
+  - 📖 Learning Javascript, Typescript
+- Cross Platform
+  - 🪄 Want to learn React-Native
+- Visual Basic
+  - Windows Form, WPF
+- Java
+- Python
+
+
+### Other
+- ⚙ CAD - Fusion 360
+
 Certifications:
 
--Sql intermediate (https://www.hackerrank.com/certificates/e83f2fde3d60)
+-Sql intermediate (https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
 
--Css Basic (https://www.hackerrank.com/certificates/cc9f893fa426)
+-Css Basic (https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+
+
 
 
 ![Frosty04's GitHub stats]( https://github-readme-stats.vercel.app/api?username=CammarataLudovico&show_icons=true&theme=darcula )
