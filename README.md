@@ -4,13 +4,13 @@
 
 - 🔞 I'm currently 20 years old.
 - 👀 I’m a Front-End Developer Student.
-- 🌱 I’m currently learning Javascript!, and Front-End things.
+- 🌱 I’m currently learning Javascript, Typescript and React.
 
 ### Programming languages / Technologies
 
 - Web
   - Javascript, PHP, SQL, HTML, CSS
-  - 📖 Learning Javascript, Typescript
+  - 📖 Learning Javascript (advanced), Typescript and React.
 - Cross Platform
   - 🪄 Want to learn React-Native
 - Visual Basic
