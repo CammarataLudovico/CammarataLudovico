@@ -6,13 +6,20 @@
 - 👀 I’m a Front-End Developer Student.
 - 🌱 I’m currently learning Javascript, Typescript and React.
 
+### Competitions
+- 🥉 3st place - National Cybersecurity Championship - [ITSCYBERGAME](https://www.itsaltoadriatico.it/grande-successo-per-lits-academy-alto-adriatico-agli-its-cyber-game-di-verona-2025/)
+
 ### Programming languages / Technologies
 
 - Web
   - Javascript, PHP, SQL, HTML, CSS
-  - 📖 Learning Javascript (advanced), Typescript and React.
-- Cross Platform
-  - 🪄 Want to learn React-Native
+  - 📖 Learning React, Typescript and advanced Express.
+- Back End
+  - Node.js
+  - Express
+- Database
+  - MySql
+  - Sqlite3
 - Visual Basic
   - Windows Form, WPF
 - Java
