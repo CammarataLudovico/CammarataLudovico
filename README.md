@@ -11,13 +11,13 @@
 
 ### Programming languages / Technologies
 
-- Web
+- 🌐 Web
   - Javascript, PHP, SQL, HTML, CSS
   - 📖 Learning React, Typescript and advanced Express.
-- Back End
+- 🖥 Back End
   - Node.js
   - Express
-- Database
+- ⛃ Database
   - MySql
   - Sqlite3
 - Visual Basic
