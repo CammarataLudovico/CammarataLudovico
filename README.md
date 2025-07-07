@@ -38,9 +38,9 @@ Certifications:
 
 
 
-![Frosty04's GitHub stats]( https://github-readme-stats.vercel.app/api?username=CammarataLudovico&show_icons=true&theme=darcula )
+![CammarataLudovico's Stats](https://github-readme-stats.vercel.app/api?username=CammarataLudovico&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Most used Languages]( https://github-readme-stats.vercel.app/api/top-langs/?username=CammarataLudovico&layout=compact )
+![CammarataLudovico's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CammarataLudovico&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <!---
