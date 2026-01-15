@@ -4,7 +4,7 @@
 
 - 🔞 I'm currently 21 years old.
 - 👀 I’m a Front-End Developer Student.
-- 🌱 I’m currently learning React and Typescript.
+- 🌱 I’m currently learning PHP & Laravel.
 
 ### Competitions
 - 🥉 3st place - National Cybersecurity Championship - [ITSCYBERGAME](https://www.itsaltoadriatico.it/grande-successo-per-lits-academy-alto-adriatico-agli-its-cyber-game-di-verona-2025/)
@@ -12,8 +12,9 @@
 ### Programming languages / Technologies
 
 - 🌐 Web
-  - Javascript, PHP, SQL, HTML, CSS
-  - 📖 Learning React and Typescript.
+  - Javascript & React
+  - PHP, Laravel
+  - Typescript.
 - 🖥 Back End
   - Node.js
   - Express
@@ -28,6 +29,7 @@
   - Windows Form, WPF
 - Java
 - Python
+- Docker
 
 
 ### Other
