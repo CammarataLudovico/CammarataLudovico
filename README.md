@@ -15,7 +15,7 @@
   - Javascript & React
   - PHP, Laravel
   - Typescript
-  - Shopify Dev (Preact)
+  - Shopify Dev (Preact, Polaris UI)
 - 🖥 Back End
   - Node.js
   - Express
