@@ -14,7 +14,8 @@
 - 🌐 Web
   - Javascript & React
   - PHP, Laravel
-  - Typescript.
+  - Typescript
+  - Shopify Dev (Preact)
 - 🖥 Back End
   - Node.js
   - Express
@@ -22,7 +23,8 @@
 - ⛃ Database
   - MySql
   - Sqlite3
-- Iot
+  - GraphQL
+- IoT
   - Grafana
   - Prometheus
 - Visual Basic
@@ -37,10 +39,9 @@
 
 Certifications:
 
--Sql intermediate (https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+-[Sql intermediate](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
 
--Css Basic (https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
-
+-[Css Basic](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
 
 
 
