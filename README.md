@@ -2,7 +2,7 @@
 
 ### Ludovico Cammarata
 
-- 🔞 I'm currently 21 years old.
+- 🔞 I'm currently 22 years old.
 - 👀 I’m a Front-End Developer Student.
 - 🌱 I’m currently learning PHP & Laravel.
 
