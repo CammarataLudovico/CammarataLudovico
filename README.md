@@ -15,57 +15,31 @@ Currently expanding my knowledge of **Docker, Linux, networking and Kubernetes**
 
 ### 🌐 Frontend
 
-* JavaScript
-* TypeScript
-* React
-* Tailwind CSS
-* Material UI
-* Shopify Development
-
-  * Preact
-  * Polaris
+* JavaScript, TypeScript, React, Tailwind CSS, Material UI
 
 ### ⚙️ Backend
 
-* PHP
-* Laravel
-* Node.js
-* Express
-* REST APIs
-* GraphQL
+* PHP, Laravel, Node.js, Express, REST APIs, GraphQL
 
 ### 🗄️ Databases
 
-* MySQL
-* SQLite
+* MySQL, SQLite
 
 ### 🐳 Infrastructure & Tools
 
-* Docker
-* Linux
-* Git
-* Nginx
-* Traefik
-* PM2
+* Docker, Linux, Git, Nginx, Traefik, PM2
 
-### 📊 Monitoring
+### 📊 Observability
 
-* Grafana
-* Prometheus
+* Grafana, Prometheus
 
 ### 💻 Other Languages & Technologies
 
-* Python
-* Java
-* Visual Basic
-
-  * Windows Forms
-  * WPF
+* Python, Java, Visual Basic (Windows Forms, WPF)
 
 ### 🛠 CAD & Making
 
-* Fusion 360
-* 3D Printing
+* Fusion 360, 3D Printing
 
 ## 📚 Currently Learning
 
