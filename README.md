@@ -1,49 +1,85 @@
-## 👋 Hi!
+# 👋 Hi, I'm Ludovico Cammarata
 
-### Ludovico Cammarata
+I'm a **Software Developer** from Italy with a background in Front-End Development and hands-on experience building full-stack web applications.
 
-- 🔞 I'm currently 22 years old.
-- 👀 I’m a Front-End Developer Student.
-- 🌱 I’m currently learning PHP & Laravel.
+I enjoy working across the stack, from user interfaces to backend services, APIs, databases and deployment.
 
-### Competitions
-- 🥉 3st place - National Cybersecurity Championship - [ITSCYBERGAME](https://www.itsaltoadriatico.it/grande-successo-per-lits-academy-alto-adriatico-agli-its-cyber-game-di-verona-2025/)
+Currently expanding my knowledge of **Docker, Linux, networking and Kubernetes**, while exploring the infrastructure, cloud and cybersecurity side of software development.
 
-### Programming languages / Technologies
+## 🏆 Competitions
 
-- 🌐 Web
-  - Javascript & React
-  - PHP, Laravel
-  - Typescript
-  - Shopify Dev (Preact, Polaris UI)
-- 🖥 Back End
-  - Node.js
-  - Express
-  - pm2
-- ⛃ Database
-  - MySql
-  - Sqlite3
-  - GraphQL
-- IoT
-  - Grafana
-  - Prometheus
-- Visual Basic
-  - Windows Form, WPF
-- Java
-- Python
-- Docker
+* 🥉 **3rd Place — National Cybersecurity Championship (ITS Cyber Game 2025)**
+  [ITS Academy Alto Adriatico](https://www.itsaltoadriatico.it/grande-successo-per-lits-academy-alto-adriatico-agli-its-cyber-game-di-verona-2025/)
 
+## 🛠 Tech Stack
 
-### Other
-- ⚙ CAD - Fusion 360
+### 🌐 Frontend
 
-Certifications:
+* JavaScript
+* TypeScript
+* React
+* Tailwind CSS
+* Material UI
+* Shopify Development
 
--[Sql intermediate](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+  * Preact
+  * Polaris
 
--[Css Basic](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+### ⚙️ Backend
 
-<!---
-frosty04/frosty04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* PHP
+* Laravel
+* Node.js
+* Express
+* REST APIs
+* GraphQL
+
+### 🗄️ Databases
+
+* MySQL
+* SQLite
+
+### 🐳 Infrastructure & Tools
+
+* Docker
+* Linux
+* Git
+* Nginx
+* Traefik
+* PM2
+
+### 📊 Monitoring
+
+* Grafana
+* Prometheus
+
+### 💻 Other Languages & Technologies
+
+* Python
+* Java
+* Visual Basic
+
+  * Windows Forms
+  * WPF
+
+### 🛠 CAD & Making
+
+* Fusion 360
+* 3D Printing
+
+## 📚 Currently Learning
+
+* Docker & containerization
+* Kubernetes
+* Linux & networking
+* Cloud infrastructure
+
+## 🎓 Certifications
+
+* [SQL Intermediate — HackerRank](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+* [CSS Basic — HackerRank](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+
+## 🔗 Find me online
+
+* 🌐 [ludov.dev](https://ludov.dev)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ludovico-cammarata-8a2951300/)
