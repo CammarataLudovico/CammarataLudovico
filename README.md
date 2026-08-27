@@ -77,7 +77,7 @@ Currently expanding my knowledge of **Docker, Linux, networking and Kubernetes**
 ## 🎓 Certifications
 
 * [SQL Intermediate — HackerRank](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
-* [CSS Basic — HackerRank](https://www.hackerrank.com/certificates/iframe/e83f2fde3d60)
+* [CSS Basic — HackerRank](https://www.hackerrank.com/certificates/iframe/cc9f893fa426)
 
 ## 🔗 Find me online
 
